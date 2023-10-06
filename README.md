@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🌱 I’m currently learning **Java.
+- 🌱 I’m currently learning **Java**.
 
 <h3 align="left">Connect with me:</h3>
 
