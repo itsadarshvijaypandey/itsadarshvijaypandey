@@ -38,4 +38,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=adarshpandey18S&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=adarshpandey18)](https://github.com/KnlnKS/leetcode-stats)
