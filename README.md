@@ -1,42 +1,46 @@
-<h1 align="center">Hi , I'm Adarsh Pandey</h1>
-<p align="left"> <img src="https://pbs.twimg.com/media/FnpfhHvXgAY66xv.jpg" width="250"  align="right" alt="adarshpandeyy" /> </p>
+<h2 align="left">Hi 👋! My name is Adarsh Pandey and I'm a Tech Enthusiast, from India</h2>
 
-<h3 align="center">A passionate Java developer from India</h3>
+###
 
-- 🌱 I’m currently learning **Java**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshpandey18&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="128" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshpandey18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="128" alt="languages graph"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
+###
 
-<p align="left">
-<a href="https://linkedin.com/in/adarshpandey18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshpandey18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adarshpandey18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsadarshvijaypandey" height="30" width="40" /></a>
-</p>
+<img align="right" height="154" src="https://gifdb.com/images/high/fluffy-face-cat-dz1gybhj8vn04ouc.gif"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" widz2th="40" height="40"/> 
-  </a> 
-  
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+###
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Zen%20Kaku%20Gothic%20New&ext=heatmap&site=cn)
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
 
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/adarshpandey18" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="adarsh.69" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+
+###
