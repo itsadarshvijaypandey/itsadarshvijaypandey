@@ -31,8 +31,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-![LeetCode Stats](https://leetcode.card.workers.dev/adarshpandey18?theme=dark&font=baloo&extension=activity)
-
 ###
 
 <br clear="both">
