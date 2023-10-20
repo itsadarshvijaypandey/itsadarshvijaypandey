@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://gifdb.com/images/high/fluffy-face-cat-dz1gybhj8vn04ouc.gif" alt="Your Image Alt Text" align="left" height="150"/>
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fa-nerd-cats-sunday-v0-4zafmjr7a1fa1.jpg%3Fs%3D39f125762dbd35e6c81f56df3738a9fb348c1f3f" alt="Your Image Alt Text" align="left" height="150"/>
 
 ###
 
