@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="154" src="https://gifdb.com/images/high/fluffy-face-cat-dz1gybhj8vn04ouc.gif"  />
+<img align="right" height="154" src="https://gifdb.com/images/high/fluffy-face-cat-dz1gybhj8vn04ouc.gif" />
 
 ###
 
@@ -35,12 +35,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 
 ###
