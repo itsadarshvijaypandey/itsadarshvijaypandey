@@ -38,4 +38,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
-![](https://leetcard.jacoblin.cool/adarshpandey18?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/adarshpandey18)](https://leetcode.com/adarshpandey18)
