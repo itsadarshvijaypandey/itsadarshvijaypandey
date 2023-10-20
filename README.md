@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="154" src="https://gifdb.com/images/high/fluffy-face-cat-dz1gybhj8vn04ouc.gif" />
+<img src="https://gifdb.com/images/high/fluffy-face-cat-dz1gybhj8vn04ouc.gif" alt="Your Image Alt Text" align="left" height="150"/>
 
 ###
 
