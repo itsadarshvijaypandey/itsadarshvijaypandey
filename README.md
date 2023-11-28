@@ -16,11 +16,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="35" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="12" />
