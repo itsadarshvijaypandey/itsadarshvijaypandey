@@ -40,6 +40,6 @@
   <img src="https://profile-counter.glitch.me/adarshpandey18/count.svg?"  />
 </div>
 ###
-![LeetCode Stats](https://leetcard.jacoblin.cool/adarshpandey18?theme=nord&font=Gothic%20A1&ext=heatmap)
+
 
 ###
