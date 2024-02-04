@@ -20,10 +20,8 @@
 
 ###
 
-<video width="320" height="240" controls>
-  <source src="https://i.gifer.com/3AyY.gif" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img align="right" height="130" src="https://i.gifer.com/3AyY.gif"  />
+
 
 ###
 
