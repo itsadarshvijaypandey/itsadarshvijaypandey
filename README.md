@@ -34,7 +34,7 @@
 
 ###
 ![LeetCode Stats](https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Snippet&ext=heatmap)
-[](https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Snippet&ext=heatmap)
+
 ###
 
 <br clear="both">
