@@ -3,19 +3,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="35" alt="kotlin logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="androidstudio logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="intellijidea logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="35" alt="intellijidea logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="45" alt="neovim logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo"  />
 </div>
 
 ###
