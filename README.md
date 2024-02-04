@@ -33,10 +33,7 @@
 </div>
 
 ###
-![LeetCode Stats](https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Snippet&ext=heatmap)
-<img src="https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Snippet&ext=heatmap" alt="LeetCode Stats" style="height: 300px; width: 500px;" />
-
-
+<img src="https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Snippet&ext=heatmap" alt="LeetCode Stats" style="height: 200px; width: 200px;" />
 ###
 
 <br clear="both">
