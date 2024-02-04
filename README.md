@@ -35,12 +35,4 @@
 
 ###
 ![Leetcode Stats](https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Roboto)
-<br clear="both">
-<br>
-<br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/adarshpandey18/count.svg?"  />
-</div>
-
-###
