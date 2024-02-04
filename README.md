@@ -33,9 +33,7 @@
 </div>
 
 ###
-<img src="https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Snippet&ext=heatmap" alt="LeetCode Stats" style="height: 300px; width: 250px;" />
-###
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Roboto)
 <br clear="both">
 
 <div align="center">
