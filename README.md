@@ -1,6 +1,5 @@
 <h2 align="left">Hey, I'm Adarsh Pandey. I am a techie that is actively learning Android Development.</h2>
-
-###
+<img align="right" height="340" src="https://i.pinimg.com/originals/f3/1b/57/f31b57364bdd0342899b8bcad2d24f26.jpg"  />
 
 <div align="left">
   <img width="15" />
@@ -18,10 +17,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=neovim" height="46" alt="neovim logo"  />
 </div>
-
-###
-
-<img align="right" height="300" src="https://i.pinimg.com/originals/f3/1b/57/f31b57364bdd0342899b8bcad2d24f26.jpg"  />
 
 
 ###
