@@ -2,7 +2,7 @@
 <img align="right" height="320" src="https://i.pinimg.com/originals/f3/1b/57/f31b57364bdd0342899b8bcad2d24f26.jpg"  />
 
 <div align="left">
-  <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=java" height="46" alt="java logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="46" alt="kotlin logo"  />
