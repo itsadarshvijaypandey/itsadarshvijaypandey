@@ -30,41 +30,41 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=go" height="48" alt="go logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="mysql logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=php" height="48" alt="php logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=lua" height="48" alt="lua logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=flask" height="48" alt="flask logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=selenium" height="48" alt="selenium logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="48" alt="androidstudio logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="firebase logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=idea" height="48" alt="intellijidea logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=neovim" height="48" alt="neovim logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=bash" height="48" alt="bash logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=powershell" height="48" alt="powershell logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo"  />
-  <img width="14" />
+  <img width="11" />
   <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo"  />
 </div>
 
