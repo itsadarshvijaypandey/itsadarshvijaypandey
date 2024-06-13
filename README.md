@@ -76,7 +76,7 @@ I am a passionate Computer Science student with a strong interest in application
 
 ###
 
-<img src="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
