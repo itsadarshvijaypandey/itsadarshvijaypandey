@@ -65,21 +65,34 @@ I am a passionate Computer Science student with a strong interest in application
 <details>
   <summary><samp><b>&#9776; See More</b></samp></summary>
   </summary>
-<hr>
-
-<img align="left" height="200"   src="https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Noto%20Sans%20Meetei%20Mayek&ext=heatmap" alt = "Leetcode Stats"  />
-
-###
-
-<h3 align="center">"Even if you are on the right track, you will get run over if you just sit there.”</h3>
-
-###
-<div align = "center">
-<img  src="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/snake.svg" alt="Snake animation" />
-</div>
+  <br>
+  <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshpandey18&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" alt="activity-graph graph"  />
+  <img align="left" height="150"   src="https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Noto%20Sans%20Avestan" alt = "Leetcode Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshpandey18&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/adarshpandey18/adarshpandey18/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h4 align="left">“Never. I don’t ever give up. I’d have to be dead or completely incapacitated. For my part, I will never give up, and I mean never.”</h4>
+
+###
+
+<p align="right">-Elon Musk</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/adarshpandey18/count.svg?"  />
+</div>
+
+###
 </details>
 
