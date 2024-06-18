@@ -68,7 +68,7 @@ I am a passionate Computer Science student with a strong interest in application
   <br>
   <br>
 
-<div align="center">
+<!-- <div align="center">
   <img align="left" height="150"   src="https://leetcard.jacoblin.cool/adarshpandey18?theme=dark&font=Noto%20Sans%20Avestan" alt = "Leetcode Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshpandey18&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
@@ -91,7 +91,28 @@ I am a passionate Computer Science student with a strong interest in application
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/adarshpandey18/count.svg?"  />
-</div>
+</div> -->
+  <!-- Github Trophy -->
+  <div align="center">
+  <table>
+  <tr>
+    
+  <td> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adarshpandey18&theme=github-dark-blue&fire=85C6EB" alt="GitHub Streak" /></a>
+</a></td>
+  </tr>
+  </table>
+  </div>
+
+  <!-- Github Stats -->
+  <div align="center">
+  <table>
+  <tr>
+  <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adarshpandey18&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
+  <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpandey18&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
+  </tr>
+  </table>
+  </div>
+
 
 ###
 </details>
