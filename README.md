@@ -34,6 +34,10 @@ I am a passionate Computer Science student with a strong interest in application
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="35" alt="maven logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
 </div>
 
 ###
